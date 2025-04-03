@@ -55,26 +55,4 @@
       <news:title>Celtic Boys Club Abuse Cases Settled</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/poilievre-s-biological-clock-remarks-stir-controversy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-01T09:28:36Z</news:publication_date>
-      <news:title>Poilievre's Biological Clock Remarks Stir Controversy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/red-bull-racing-unveils-iconic-white-livery-for-japanese-grand-prix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-01T09:17:41Z</news:publication_date>
-      <news:title>Red Bull Racing Unveils Iconic White Livery for Japanese Grand Prix</news:title>
-    </news:news>
-  </url>
 </urlset>
