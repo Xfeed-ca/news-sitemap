@@ -33,26 +33,4 @@
       <news:title>How Much Car Loan Can I Get?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/putra-heights-gas-pipeline-fire-sparks-chaos-and-evacuations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-01T09:54:44Z</news:publication_date>
-      <news:title>Putra Heights Gas Pipeline Fire Sparks Chaos and Evacuations</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/celtic-boys-club-abuse-cases-settled</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-01T09:38:45Z</news:publication_date>
-      <news:title>Celtic Boys Club Abuse Cases Settled</news:title>
-    </news:news>
-  </url>
 </urlset>
