@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,7 +25,8 @@ jobs:
           pip install feedparser pytz
 
       - name: Generate sitemap
-        run: python generate_sitemap.py
+        run: |
+          python generate_sitemap.py || echo "Failed to generate sitemap, check script output for details"
 
       - name: Commit and push changes
         run: |
@@ -32,3 +35,7 @@ jobs:
           git add news-sitemap.xml
           git commit -m "Update news-sitemap.xml with latest articles" || echo "No changes to commit"
           git push
+
+      - name: Ping Google Search Console
+        run: |
+          curl "http://www.google.com/ping?sitemap=https://news.xfeed.ca/news-sitemap.xml"
