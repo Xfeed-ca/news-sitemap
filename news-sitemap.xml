@@ -1,2 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.xfeed.ca/post/trump-proposes-us-takeover-of-gaza-what-s-behind-the-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T23:55:13Z</news:publication_date>
+      <news:title>Trump Proposes US Takeover of Gaza: What’s Behind the Plan?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.xfeed.ca/post/china-rare-earth-export-restrictions-a-weapon-in-the-us-trade-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T23:46:37Z</news:publication_date>
+      <news:title>China Rare Earth Export Restrictions: A Weapon in the US Trade War</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.xfeed.ca/post/trump-tariffs-vs-israel-netanyahu-s-trade-deficit-pledge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T23:39:40Z</news:publication_date>
+      <news:title>Trump Tariffs vs Israel: Netanyahu’s Trade Deficit Pledge</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.xfeed.ca/post/trump-s-50-tariff-threat-a-new-us-china-trade-war-looms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T23:31:34Z</news:publication_date>
+      <news:title>Trump China Tariffs: 50% Threat Sparks New US-China Trade War</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.xfeed.ca/post/china-s-role-in-canada-s-2025-election</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T23:10:38Z</news:publication_date>
+      <news:title>China’s Role in Canada’s 2025 Election</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.xfeed.ca/post/secret-x-purge-2025-canada-s-small-voices-silenced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Xfeed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-07T22:36:08Z</news:publication_date>
+      <news:title>Secret X Purge 2025: Canada’s Small Voices Silenced</news:title>
+    </news:news>
+  </url>
+</urlset>
