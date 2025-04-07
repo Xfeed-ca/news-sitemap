@@ -66,26 +66,4 @@
       <news:title>Poilievre vs. Carney: CBC Funding Clash</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/canadian-immigration-crackdown-targets-ontario-firms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-05T07:55:17Z</news:publication_date>
-      <news:title>Canadian Immigration Crackdown Targets Ontario Firms</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.xfeed.ca/post/trump-tariffs-hit-canada-markets-reel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Xfeed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-05T07:38:36Z</news:publication_date>
-      <news:title>Trump Tariffs Hit Canada, Markets Reel</news:title>
-    </news:news>
-  </url>
 </urlset>
